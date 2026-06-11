@@ -19,7 +19,7 @@ A deep learning project that predicts solar power output (in kW) from meteorolog
 
 ## Overview
 
-This project uses historical weather and solar data to train an LSTM model capable of forecasting solar power generation. The model takes a sequence of 24 previous time steps as input and predicts the power output for the next step — useful for grid management, energy storage planning, and solar farm operations.
+This project uses historical weather and solar data to train an LSTM model capable of forecasting solar power generation. The model takes a sequence of 24 previous time steps as input and predicts the power output for the next step- useful for grid management, energy storage planning, and solar farm operations.
 
 ---
 
@@ -154,10 +154,10 @@ At the end of the notebook, a simple CLI predictor lets you enter live weather c
 ## Technologies Used
 
 - **Python 3.x**
-- **TensorFlow / Keras** — LSTM model
-- **scikit-learn** — preprocessing, metrics
-- **Pandas / NumPy** — data handling
-- **Matplotlib / Seaborn** — visualization
+- **TensorFlow / Keras**- LSTM model
+- **scikit-learn**- preprocessing, metrics
+- **Pandas / NumPy**- data handling
+- **Matplotlib / Seaborn**- visualization
 
 ---
 
