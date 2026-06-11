@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment Variables
+.env
+.env.local
+
+# Trained Model Files (too large for GitHub)
+*.h5
+*.keras
+*.pb
+saved_model/
+model_weights/
+checkpoints/
+
+# Saved Scalers / Preprocessors
+*.pkl
+*.pickle
+*.joblib
+
+# Dataset (host on Kaggle/Google Drive and link in README)
+*.csv
+*.xlsx
+*.json
+
+# Logs & TensorBoard
+logs/
+runs/
+*.log
+tensorboard_logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
